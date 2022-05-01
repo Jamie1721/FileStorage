@@ -3,9 +3,10 @@
     {
         "productName":"ipadPro",
         "color":["太空灰色","粉紅色","紫色","藍色","星光色"],
+        "colorspicture":["./gray.png","./pink.jpeg","./purple.jpeg","./blue.jpeg","./starlight.jpeg"],
+        "picture":["./ipad-air-select-cell-spacegray.png","./ipad-air-select-cell-pink.png","./ipad-air-select-cell-purple.png","./ipad-air-select-cell-blue.png","./ipad-air-select-cell-starlight.png"],
         "storage":["64GB","256GB"],
         "network":["Wi-Fi","Cellular"],
-        "picture":["./gray.png","./pink.jpeg","./purple.jpeg","./blue.jpeg","./starlight.jpeg"],
         "price":[17900,22900,27900]
     }
 ]
